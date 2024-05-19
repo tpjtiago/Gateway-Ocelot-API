@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34728.123
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "API.Gateway", "API.Gateway\API.Gateway.csproj", "{13F47E4C-D282-4906-8580-F45AFEFBC9EA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "API.Pedidos", "..\API.Pedidos\API.Pedidos.csproj", "{2B031B2D-B73A-499E-97FA-7983C8990918}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{13F47E4C-D282-4906-8580-F45AFEFBC9EA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{13F47E4C-D282-4906-8580-F45AFEFBC9EA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{13F47E4C-D282-4906-8580-F45AFEFBC9EA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{13F47E4C-D282-4906-8580-F45AFEFBC9EA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2B031B2D-B73A-499E-97FA-7983C8990918}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2B031B2D-B73A-499E-97FA-7983C8990918}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2B031B2D-B73A-499E-97FA-7983C8990918}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2B031B2D-B73A-499E-97FA-7983C8990918}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0EE57FCF-B5BF-4F0A-93DA-6456B939E414}
+	EndGlobalSection
+EndGlobal
